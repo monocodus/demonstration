@@ -12,6 +12,7 @@ const {
   createSuperBlockIntroPages
 } = require('./utils/gatsby');
 
+
 const createByIdentityMap = {
   blockIntroMarkdown: createBlockIntroPages,
   superBlockIntroMarkdown: createSuperBlockIntroPages
